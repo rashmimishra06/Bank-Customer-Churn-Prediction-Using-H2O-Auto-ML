@@ -1,0 +1,1 @@
+The Bank Customer Churn Prediction project aims to predict the likelihood of customers leaving a bank, also known as "churn." By utilizing H2O AutoML, a powerful automated machine learning platform, we can efficiently build and deploy predictive models that identify potential churners, allowing the bank to take proactive measures to retain customers.
